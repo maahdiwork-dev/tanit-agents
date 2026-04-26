@@ -32,7 +32,7 @@ The first **Rooted AI specialist agent** — built for Pr. Nadia Mzoughi Aguir o
 - **12 strategic tools** — `getGreenMetricState`, `getStrategicPlanStatus`, `proposeAction`, `recordDecision`, `requestTanitAction`, `generateMonthlyDigest`, `logConversationSummary`, `readAstariaMemory`, etc.
 - **4-layer memory** — identity (vault) · mission (Supabase) · relationship (conversations) · domain (GreenMetric methodology)
 - **Pre-seeded mission state** — 13 actions tracked, 3 pending proposals, 1 active blocker (P1.1 plastic decree pending 4 weeks), 5 historical decisions, 2 past conversations, 1 documented win
-- French présidentiel — *vous*, no contractions, structured. Vocabulary verified against Pr. Nadia's WhatsApp messages.
+- Speaks in formal French (the *présidentiel* register — *vous*, no contractions, structured prose). Vocabulary verified against Pr. Nadia's WhatsApp messages.
 
 ---
 
