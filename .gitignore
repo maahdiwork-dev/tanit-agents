@@ -1,0 +1,15 @@
+output.txt
+node_modules/
+dist/
+.mastra/
+.mastra/output/
+.env
+.env.local
+.env.*.local
+!.env.example
+*.db
+*.db-*
+*.log
+supabase/.temp/
+.netlify
+.vercel

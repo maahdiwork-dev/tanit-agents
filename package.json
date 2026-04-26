@@ -1,0 +1,36 @@
+{
+  "name": "tanit-agents",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "mastra dev",
+    "build": "mastra build",
+    "start": "node .mastra/output/index.mjs",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "dependencies": {
+    "@ai-sdk/anthropic": "^3.0.71",
+    "@ai-sdk/deepseek": "^2.0.29",
+    "@ai-sdk/google": "^3.0.64",
+    "@mastra/core": "^1.28.0",
+    "@mastra/libsql": "^1.9.0",
+    "@mastra/memory": "^1.17.1",
+    "@supabase/supabase-js": "^2.104.1",
+    "ai": "^6.0.168",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "mastra": "^1.6.3",
+    "typescript": "^6.0.3"
+  }
+}
